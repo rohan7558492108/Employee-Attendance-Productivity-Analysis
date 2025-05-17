@@ -1,6 +1,27 @@
 Title
 - Employee-Attendance-Productivity-Analysis
 
+
+Description/Purpose:
+To monitor, analyze, and improve employee attendance trends and productivity across departments, roles, and global locations during the specified time range
+
+Further Prediction Suggestions
+1️⃣ Forecasting Absenteeism Trends
+Goal: Predict future absenteeism rates to plan workforce management.
+
+Tool: Power BI’s built-in Forecasting feature in line charts.
+
+How: Apply forecasting to the "Absent Flag by Month" chart.
+
+Output: Predicted absenteeism for upcoming months — helps with resource planning during critical periods (e.g., holidays, seasonal workloads).
+
+2️⃣ Productivity Score Prediction by Job Role
+Goal: Forecast future average productivity for each role.
+
+How: Use historical data and machine learning (e.g., regression models) in Python/R script visuals within Power BI.
+
+Output: Identify roles likely to show performance dips or improvements.
+
 )1. Bar Chart: Sum of Hours Worked by Department
 Location: Top left
 Purpose: Shows total hours worked by employees in each department.
@@ -53,5 +74,7 @@ Shift
 Department
 Job Role
 Date Range (Month)
+
+
 
 ![image](https://github.com/user-attachments/assets/316996c4-ddff-49d8-95a6-a59caa9c46f0)
